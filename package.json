@@ -1,6 +1,11 @@
 {
   "name": "stories-portfolio",
   "version": "0.1.0",
+  "description": "My stories website for personal portfolio",
+  "author": {
+    "name": "Himanshu",
+    "email": "hyattherate2005@gmail.com"
+  },
   "private": true,
   "scripts": {
     "dev": "next dev",
